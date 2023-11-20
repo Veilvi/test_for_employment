@@ -1,0 +1,6 @@
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\bin\Debug\test_for_employment.dll
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\bin\Debug\test_for_employment.pdb
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\obj\Debug\test_for_employment.csproj.AssemblyReference.cache
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\obj\Debug\test_for_employment.csproj.CoreCompileInputs.cache
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\obj\Debug\test_for_employment.dll
+C:\Users\svivl\RiderProjects\test_for_employment\test_for_employment\obj\Debug\test_for_employment.pdb
